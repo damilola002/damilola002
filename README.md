@@ -1,7 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damilola Adesina ========================================================================================================================================  Computer Science Student in Cloud Computing -------------------------------------------  Looking forward to pursue a career in cloud computing, building interesting projects. While I am done with every basic knowledge I need to know I am looking forward to my dream project, building a football/sport analysis software using basic frontend and backend languages and they uploading them to the cloud  
-* 🌍  I'm based in Grand Prairie, Texas, United States *
-*  ✉️  You can contact me at [damilola312005@gmail.com](mailto:damilola312005@gmail.com) *
-*  🧠  I'm learning C programming * 🤝  I'm open to collaborating on Cloud related projects using AWS *
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damilola Adesina ======================================================================================================================================== #### Computer Science Student Specializing in Cloud Computing -------------------------------------------  
+
+
+
+I am a dedicated Computer Science student with a keen focus on Cloud Computing, eager to advance my career in this dynamic field. With a solid foundation in essential cloud technologies and computing principles, I am now concentrating on developing innovative projects that harness the power of the cloud.
+
+Currently, I am working on my dream project: a comprehensive football and sports analysis software. This project involves utilizing fundamental frontend and backend technologies to create a robust application, which will ultimately be deployed on cloud platforms to ensure scalability and accessibility.
+
+My goal is to leverage my skills and knowledge to build impactful solutions and contribute to the evolving landscape of cloud computing. I am enthusiastic about collaborating on projects, exploring new technologies, and connecting with professionals in the field.
+
+Feel free to connect with me to discuss cloud computing, potential collaborations, or to learn more about my ongoing projects.
+* 🌍  I'm based in Grand Prairie, Texas, United States 
+*  ✉️  You can contact me at [damilola312005@gmail.com](mailto:damilola312005@gmail.com) 
+*  🧠  I'm learning C programming * 🤝  I'm open to collaborating on Cloud related projects using AWS 
 *  ⚡  I love Music, but cannot sing. Looking forward to its production
 
 ### Skills  
